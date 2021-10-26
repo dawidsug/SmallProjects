@@ -1,0 +1,24 @@
+﻿  CWirtualnyPokoj.cpp
+c:\users\student237530\desktop\klimatyzator — kopia — kopia\klimatyzator\cwirtualnypokoj.cpp(7): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\student237530\desktop\klimatyzator — kopia — kopia\klimatyzator\cwirtualnypokoj.cpp(8): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\student237530\desktop\klimatyzator — kopia — kopia\klimatyzator\cwirtualnypokoj.cpp(9): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\student237530\desktop\klimatyzator — kopia — kopia\klimatyzator\cwirtualnypokoj.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\student237530\desktop\klimatyzator — kopia — kopia\klimatyzator\cwirtualnypokoj.cpp(12): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\student237530\desktop\klimatyzator — kopia — kopia\klimatyzator\cwirtualnypokoj.cpp(13): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  Compiling...
+  Source.cpp
+c:\users\student237530\desktop\klimatyzator — kopia — kopia\klimatyzator\source.cpp(72): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\student237530\desktop\klimatyzator — kopia — kopia\klimatyzator\source.cpp(74): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\student237530\desktop\klimatyzator — kopia — kopia\klimatyzator\source.cpp(75): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\student237530\desktop\klimatyzator — kopia — kopia\klimatyzator\source.cpp(20): warning C4101: 'wybor': unreferenced local variable
+  CScheduler.cpp
+  COgrodek.cpp
+  CMain.cpp
+  CLazienka.cpp
+  CKuchnia.cpp
+  Generating Code...
+  Klimatyzator.vcxproj -> C:\Users\Student237530\Desktop\Klimatyzator — kopia — kopia\Debug\Klimatyzator.exe

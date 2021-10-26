@@ -1,0 +1,54 @@
+﻿  CGrzejnik.cpp
+  CKuchnia.cpp
+  CLazienka.cpp
+  CMain.cpp
+  COgrodek.cpp
+  CPokoje.cpp
+  CSystemWentylacyjny.cpp
+  CScheduler.cpp
+  CSterownik.cpp
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(128): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(136): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(141): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(151): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(159): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(164): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(174): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(182): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(187): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(197): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(205): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(210): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(243): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(244): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(245): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\csterownik.cpp(246): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  CMiernik.cpp
+  CWirtualnyPokoj.cpp
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cwirtualnypokoj.cpp(6): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cwirtualnypokoj.cpp(7): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cwirtualnypokoj.cpp(8): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cwirtualnypokoj.cpp(10): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cwirtualnypokoj.cpp(11): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cwirtualnypokoj.cpp(12): warning C4305: "=": obcięcie z "double" do "float"
+  CZraszacz.cpp
+  Source.cpp
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cmain.h(68): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\conio.h(450): note: zobacz deklarację „kbhit”
+  c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cmain.h(55): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\source.cpp(66): note: zobacz odwołanie do funkcji szablon; wystąpienie „Typ CMain<Typ,char>::petlaGlowna(void)” jest kompilowane
+          with
+          [
+              Typ=void
+          ]
+  c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\source.cpp(29): note: zobacz odwołanie do klasy klasa szablon; wystąpienie „CMain<void,char>” jest kompilowane
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cmain.h(70): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\conio.h(444): note: zobacz deklarację „getch”
+c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cscheduler.h(49): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cscheduler.h(48): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cmain.h(65): note: zobacz odwołanie do funkcji szablon; wystąpienie „const int CScheduler<char>::operator ++(int)” jest kompilowane
+  c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\cscheduler.h(36): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\source.cpp(23): note: zobacz odwołanie do funkcji szablon; wystąpienie „CScheduler<char>::CScheduler(void)” jest kompilowane
+  c:\users\kino7\documents\programowanie\smallprojects\smart home\smart home\source.cpp(23): note: zobacz odwołanie do klasy klasa szablon; wystąpienie „CScheduler<char>” jest kompilowane
+  Generowanie kodu...
+  SmartHome.vcxproj -> C:\Users\kino7\Documents\Programowanie\SmallProjects\Smart home\x64\Debug\SmartHome.exe

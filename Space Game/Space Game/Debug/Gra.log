@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Gra.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Meteoryt.cpp
+c:\users\kino7\desktop\prog\gra\gra\meteoryt.cpp(7): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  MeteorytO1.cpp
+  MeteorytO2.cpp
+  MeteorytRomb.cpp
+  Obraz.cpp
+  Rozgrywka.cpp
+c:\users\kino7\desktop\prog\gra\gra\rozgrywka.cpp(45): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\conio.h(450): note: zobacz deklarację „kbhit”
+c:\users\kino7\desktop\prog\gra\gra\rozgrywka.cpp(47): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\conio.h(444): note: zobacz deklarację „getch”
+c:\users\kino7\desktop\prog\gra\gra\rozgrywka.cpp(159): warning C4552: „+”: Wynik wyrażenia nie jest używany
+  Source.cpp
+  Statek.cpp
+  Generowanie kodu...
+  Gra.vcxproj -> C:\Users\kino7\Desktop\Prog\Gra\Debug\Space Game.exe

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Inteligentny_dom" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug Win32">
+				<Option output="Klimatyzator" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-DWIN32" />
+					<Add option="-D_DEBUG" />
+					<Add option="-D_CONSOLE" />
+				</Compiler>
+			</Target>
+			<Target title="Debug x64">
+				<Option output="Klimatyzator" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-D_DEBUG" />
+					<Add option="-D_CONSOLE" />
+				</Compiler>
+			</Target>
+			<Target title="Release x64">
+				<Option output="Klimatyzator" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-DNDEBUG" />
+					<Add option="-D_CONSOLE" />
+				</Compiler>
+			</Target>
+			<Target title="Release Win32">
+				<Option output="Klimatyzator" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-DWIN32" />
+					<Add option="-DNDEBUG" />
+					<Add option="-D_CONSOLE" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Unit filename="CGrzejnik.cpp" />
+		<Unit filename="CGrzejnik.h" />
+		<Unit filename="CKuchnia.cpp" />
+		<Unit filename="CKuchnia.h" />
+		<Unit filename="CLazienka.cpp" />
+		<Unit filename="CLazienka.h" />
+		<Unit filename="CMain.cpp" />
+		<Unit filename="CMain.h" />
+		<Unit filename="CMiernik.cpp" />
+		<Unit filename="CMiernik.h" />
+		<Unit filename="COgrodek.cpp" />
+		<Unit filename="COgrodek.h" />
+		<Unit filename="CPokoje.cpp" />
+		<Unit filename="CPokoje.h" />
+		<Unit filename="CScheduler.cpp" />
+		<Unit filename="CScheduler.h" />
+		<Unit filename="CSterownik.cpp" />
+		<Unit filename="CSterownik.h" />
+		<Unit filename="CSystemWentylacyjny.cpp" />
+		<Unit filename="CSystemWentylacyjny.h" />
+		<Unit filename="CWirtualnyPokoj.cpp" />
+		<Unit filename="CWirtualnyPokoj.h" />
+		<Unit filename="CZraszacz.cpp" />
+		<Unit filename="CZraszacz.h" />
+		<Unit filename="Source.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

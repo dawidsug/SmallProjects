@@ -1,0 +1,17 @@
+﻿  Meteoryt.cpp
+c:\users\kino7\documents\programowanie\smallprojects\space game\space game\meteoryt.cpp(7): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  MeteorytO1.cpp
+  MeteorytO2.cpp
+  MeteorytRomb.cpp
+  Obraz.cpp
+  Rozgrywka.cpp
+c:\users\kino7\documents\programowanie\smallprojects\space game\space game\rozgrywka.cpp(45): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\conio.h(450): note: zobacz deklarację „kbhit”
+c:\users\kino7\documents\programowanie\smallprojects\space game\space game\rozgrywka.cpp(47): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\conio.h(444): note: zobacz deklarację „getch”
+c:\users\kino7\documents\programowanie\smallprojects\space game\space game\rozgrywka.cpp(159): warning C4552: „+”: Wynik wyrażenia nie jest używany
+c:\users\kino7\documents\programowanie\smallprojects\space game\space game\rozgrywka.cpp(180): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Source.cpp
+  Statek.cpp
+  Generowanie kodu...
+  SpaceGame.vcxproj -> C:\Users\kino7\Documents\Programowanie\SmallProjects\Space Game\x64\Debug\Space Game.exe
